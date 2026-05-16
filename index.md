@@ -40,7 +40,7 @@ If you don't currently have an active Starlink subscription, the only real trade
 
 Worth considering.
 
-A crude way to disable the DCM is to just pull fuse #9. But this also kills the front speakers and the onboard ceiling mic, both of which route through the DCM.
+A crude way to disable the DCM is to just pull fuse #9. But this also kills the front speakers and the onboard ceiling mic (up there near everybody's heads, for taking calls hands-free on a Bluetooth-paired phone), both of which route through the DCM.
 
 The preferred way is to open up the console, disconnect/remove the DCM and install a DCM bypass, which restores the mic & speaker connections, allows all non-internet functionality including phone pairing (via Android Auto or Apple CarPlay), and doesn't raise diagnostic alarms about a missing DCM or affect driving in any way.
 
